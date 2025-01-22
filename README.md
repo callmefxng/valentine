@@ -1,8 +1,8 @@
-# 🥰 Be My Valentine? 🥰
+# 🥰หายงอนกันได้แล้วสุดหล่อของเค้า? 🥰
 
 ![Project Image](https://i.imgur.com/8q884zI.png)
 
-Welcome to the most adorable project you've ever seen! This is a special React application designed to ask that special someone: "Will you be my Valentine?".
+Welcome to the most adorable project you've ever seen! This is a special React application designed to ask that special someone: "ดีกันได้มั้ยเค้าผิดไปแล้ว?".
 
 ## 💖 What's Inside? 💖
 [Link to site](https://formyvalentine.netlify.app)
